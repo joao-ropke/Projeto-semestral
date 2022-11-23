@@ -116,7 +116,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -124,7 +124,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -133,7 +133,7 @@
 
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -141,7 +141,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -152,7 +152,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -160,7 +160,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -169,7 +169,7 @@
 
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -177,7 +177,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -188,7 +188,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -196,7 +196,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -205,7 +205,7 @@
 
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -213,7 +213,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 79.<small>99</small></h2>
+                <h2 class="preço">R$ 80<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
