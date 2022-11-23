@@ -9,7 +9,7 @@
 
 body {
     min-height: 100vh;
-    background-color: #eeeceb;
+    background-image: linear-gradient(to bottom, #eeeceb, #bab8b7, #888685, #5a5856, #2f2d2c);
 }
 
 .header {
@@ -75,6 +75,17 @@ body {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 /*Slider*/
 
 .container {
@@ -129,6 +140,18 @@ body {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 /*Categoria - Icons*/
 
 .categorias {
@@ -146,6 +169,25 @@ body {
     padding: 30px;
     cursor: pointer;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -232,6 +274,19 @@ h4{
     top: 0px;
     opacity: 1;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

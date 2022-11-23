@@ -9,7 +9,11 @@
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css" />
+    <!-- CSS only -->
+  <link rel="stylesheet" href="css/style.css" />
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <title>ANBET</title>
 </head>
 
@@ -19,7 +23,7 @@
             <div class="logo">
                 <h1>ANBET</h1>
             </div>
-            <ul class="navi">
+            <ul class="navi d-flex align-items-center" style = "">
                 <a>
                     <li>Home</li>
                 </a>
@@ -29,9 +33,20 @@
                 <a>
                     <li>Sobre nós</li>
                 </a>
-                <a>
-                    <li>Contatos</li>
-                </a>
+                <li>
+                    <!-- <li>Contatos</li> -->
+                    <div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+   Produtos
+  </button>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">Produtos1</a></li>
+    <li><a class="dropdown-item" href="#"> Produtos2</a></li>
+    <li><a class="dropdown-item" href="#">Produtos3</a></li>
+    <li><a class="dropdown-item" href="#">Produtos4</a></li>
+  </ul>
+</div>
+</li>     
                 <a href = "login">
                     <?php  
                     $nome = "";
@@ -45,6 +60,7 @@
             </ul>
         </div>
     </div>
+    
     <!--inicio slider-->
     <div class="container">
         <div class="carousel">
@@ -116,7 +132,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
+                <h2 class="preço">R$ 79.<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -124,7 +140,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
+                <h2 class="preço">R$ 79.<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -133,15 +149,7 @@
 
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
-                <a href="#" class="compra">Compre Agora</a>
-            </div>
-        </section>
-        <section class="catalogo">
-            <img src="img/porcelanato.webp">
-            <div class="contentBx">
-                <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
+                <h2 class="preço">R$ 79.<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -152,7 +160,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
+                <h2 class="preço">R$ 79.<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -160,7 +168,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
+                <h2 class="preço">R$ 79.<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -169,15 +177,7 @@
 
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
-                <a href="#" class="compra">Compre Agora</a>
-            </div>
-        </section>
-        <section class="catalogo">
-            <img src="img/porcelanato.webp">
-            <div class="contentBx">
-                <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
+                <h2 class="preço">R$ 79.<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -188,7 +188,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
+                <h2 class="preço">R$ 79.<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -196,7 +196,7 @@
             <img src="img/porcelanato.webp">
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
+                <h2 class="preço">R$ 79.<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
@@ -205,15 +205,7 @@
 
             <div class="contentBx">
                 <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
-                <a href="#" class="compra">Compre Agora</a>
-            </div>
-        </section>
-        <section class="catalogo">
-            <img src="img/porcelanato.webp">
-            <div class="contentBx">
-                <h3>porcelanato Filetado Branco</h3>
-                <h2 class="preço">R$ 80<small>99</small></h2>
+                <h2 class="preço">R$ 79.<small>99</small></h2>
                 <a href="#" class="compra">Compre Agora</a>
             </div>
         </section>
